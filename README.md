@@ -11,6 +11,7 @@ This repository showcases my beginner-level Generative AI and Prompt Engineering
 - AI To-Do List
 - https://github.com/tabu78/tabassum-generative-ai/blob/c5c398b5c89e3bc534c03279516e6f0d725126b6/04-ai-to-do-list.md
 - AI Weekend Planner
+- https://github.com/tabu78/tabassum-generative-ai/blob/b6a2a285a366bf77ccf73bccc7b77d4b92a670d1/Ai%20weekend%20planner
 - AI Article Writing
 - https://github.com/tabu78/tabassum-generative-ai/blob/786410180a45c8a0db1f9361a411856f304b9d58/03%20AI%20article%20writing.md
 - Instagram Caption
