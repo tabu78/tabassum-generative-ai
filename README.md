@@ -10,6 +10,7 @@ This repository showcases my beginner-level Generative AI and Prompt Engineering
 - AI To-Do List
 - AI Weekend Planner
 - AI Article Writing
+- https://github.com/tabu78/tabassum-generative-ai/blob/786410180a45c8a0db1f9361a411856f304b9d58/03%20AI%20article%20writing.md
 - Instagram Caption
 - Product Description
 - Customer Support Reply
