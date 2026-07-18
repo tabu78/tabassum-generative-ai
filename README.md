@@ -7,6 +7,7 @@ This repository showcases my beginner-level Generative AI and Prompt Engineering
 
 ## Projects
 - AI Email Drafting
+- 02 Ai email drafting .md
 - AI To-Do List
 - AI Weekend Planner
 - AI Article Writing
